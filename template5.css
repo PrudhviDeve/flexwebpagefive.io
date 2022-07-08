@@ -236,3 +236,7 @@ h2.title {
     width:960px;
     align-items: center;
 }
+.row3 a {
+    text-decoration: none;
+    color : #919191;
+}
